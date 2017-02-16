@@ -1,0 +1,6 @@
+name: DeathBan
+main: io.github.white1amp.DeathBan
+version: 1.0
+commands:
+  undb:
+    description: Command for DeathBan
